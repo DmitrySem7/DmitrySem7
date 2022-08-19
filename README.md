@@ -1,9 +1,10 @@
 ### Hi there 👋
-[header.png](https://github.com/DmitrySem7/DmitrySem7/blob/8f8076205733a5bbadf6181e956f5118e82a1e2c/header.png)
+![banner (1)](https://user-images.githubusercontent.com/102732619/185595529-1fb077a0-6a71-4f76-9a10-fe89d5cdd770.png)
 <!--
 **DmitrySem7/DmitrySem7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![banner (1)](https://user-images.githubusercontent.com/102732619/185595529-1fb077a0-6a71-4f76-9a10-fe89d5cdd770.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
