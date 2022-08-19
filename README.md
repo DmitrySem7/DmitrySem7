@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img scr="header.png"></img>
+[header.png](https://github.com/DmitrySem7/DmitrySem7/blob/8f8076205733a5bbadf6181e956f5118e82a1e2c/header.png)
 <!--
 **DmitrySem7/DmitrySem7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
